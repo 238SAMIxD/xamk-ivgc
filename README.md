@@ -11,11 +11,11 @@ Introduction to Video Games Crestion course by South-Eastern Finland University 
 
 ## MODULE 1: INTRODUCTION
 
-[X] Module 1 - Instructions
+1. [x] Module 1 - Instructions
 
 ### SUB-MODULE 1.1: KRITA
 
-1. [x] [X] Introduction (5:07)
+1. [x] Introduction (5:07)
 2. [x] Setup (3:12)
 3. [x] Interface (3:21)
 4. [x] Brushes (9:55)
@@ -65,11 +65,11 @@ Introduction to Video Games Crestion course by South-Eastern Finland University 
 2. [x] Importing your Model in Unity (3:37)
 3. [x] Completing the Assignment (3:28)
 
-[X] Module 1 - Assignment - Submit your deliverables
+4. [x] Module 1 - Assignment - Submit your deliverables
 
 ## MODULE 2: “THE RETURN”, TEXT ADVENTURE GAME
 
-[X] Module 2 - Instructions
+0. [x] Module 2 - Instructions
 
 1. [x] Introduction (3:34)
 2. [x] Project Setup (11:24)
@@ -84,12 +84,11 @@ Introduction to Video Games Crestion course by South-Eastern Finland University 
 11. [x] Finish the game (22:21)
 12. [x] Completing the Assignment (4:22)
 
-[x] Module 2 - Assignment - Submit your deliverable
+13. [x] Module 2 - Assignment - Submit your deliverable
 
 ## MODULE 3: "MERLIN'S DEMON WAR", CARD COMBAT GAME
 
-[x] Module 3 - Instructions
-[x] Module 3 - Instructions
+0. [x] Module 3 - Instructions
 
 1. [x] Introduction (2:43)
 2. [x] Project Setup (4:07)
@@ -105,11 +104,11 @@ Introduction to Video Games Crestion course by South-Eastern Finland University 
 12. [x] Adding Sound Effects (25:30)
 13. [x] Completing the assignment (4:29)
 
-[X] Module 3 - Assignment - Submit your deliverables
+14. [x] Module 3 - Assignment - Submit your deliverables
 
 ## MODULE 4: PIXEL ART 2D
 
-[X] Module 4 - Instructions
+0. [x] Module 4 - Instructions
 
 1. [x] Introduction (2:43)
 2. [ ] Hud Elements (75:30)
@@ -117,11 +116,11 @@ Introduction to Video Games Crestion course by South-Eastern Finland University 
 4. [ ] Character (37:47)
 5. [ ] Animation (66:24)
 
-[ ] Module 4 - Assignment - Submit your deliverables
+6. [ ] Module 4 - Assignment - Submit your deliverables
 
 ## MODULE 5: MOBILE SNAKE GAME
 
-[X] Module 5 - Instructions
+0. [x] Module 5 - Instructions
 
 1. [x] Introduction (1:30)
 2. [x] Project Setup (5:06)
@@ -138,109 +137,107 @@ Introduction to Video Games Crestion course by South-Eastern Finland University 
 13. [ ] Sounds and Phone Deployment (14:12)
 14. [ ] Assignment (3:12)
 
-[ ] Module 5 - Assignment - Submit your deliverables
+15. [ ] Module 5 - Assignment - Submit your deliverables
 
 ## MODULE 6: SPACE SHOOTER
 
-[ ] Module 6 - Instructions (1:45)
+1. [ ] Module 6 - Instructions (1:45)
 
 ### SUB-MODULE 6.1: SETTING UP THE PROJECT
 
-[ ] Sub-Module 6.1 - Instructions
+0. [ ] Sub-Module 6.1 - Instructions
 
 1. [ ] Source Control (27:31)
 2. [ ] Technical Planning (6:16)
 3. [ ] Creating The Unity Project (13:22)
 
-[ ] Sub-Module 6.1 - Assignment - Quiz
+4. [ ] Sub-Module 6.1 - Assignment - Quiz
 
 ### SUB-MODULE 6.2: MOVABLE PLAYER SHIP
 
-[ ] Sub-Module 6.2 - Instructions
+0. [ ] Sub-Module 6.2 - Instructions
 
 1. [ ] Creating a Menu System (53:00)
 2. [ ] Input System (115:15)
 3. [ ] Shaders (46:56)
 4. [ ] PlayerCraft (90:11)
 
-[ ] Sub-Module 6.2 - Assignment Checkpoint - Deliverable
+5. [ ] Sub-Module 6.2 - Assignment Checkpoint - Deliverable
 
 ### SUB-MODULE 6.3: BULLETS
 
-[ ] Sub-Module 6.3 - Instructions
+0. [ ] Sub-Module 6.3 - Instructions
 
 1. [ ] Bitmap Font (37:57)
 2. [ ] Bullet System (48:30)
 3. [ ] Player Weapons (113:49)
 
-[ ] Sub-Module 6.3 - Assignment - Deliverable
+4. [ ] Sub-Module 6.3 - Assignment - Deliverable
 
 ### SUB-MODULE 6.4: ENEMY SHOOTING
 
-[ ] Sub-Module 6.4 - Instructions
+0. [ ] Sub-Module 6.4 - Instructions
 
 1. [ ] Enemies (72:51)
 
-[ ] Sub-Module 6.4 - Assignment - Deliverable
+2. [ ] Sub-Module 6.4 - Assignment - Deliverable
 
 ### SUBMODULE 6.5: STAGES
 
-[ ] Sub-Module 6.5 - Instructions
+0. [ ] Sub-Module 6.5 - Instructions
 
 1. [ ] Adding a stage (48:58)
 2. [ ] Adding enemies (46:46)
 
-[ ] Sub-Module 6.5 - Assignment Checkpoint - Deliverable
+3. [ ] Sub-Module 6.5 - Assignment Checkpoint - Deliverable
 
 ### SUB-MODULE 6.6: ENEMY MOVEMENT
 
-[ ] Sub-Module 6.6 - Instructions
+0. [ ] Sub-Module 6.6 - Instructions
 
 1. [ ] Advanced movement (1/2) (93:25)
 2. [ ] Advanced movement (2/2) (46:02)
 
-[ ] Sub-Module 6.6 - Assignment - Deliverable
+3. [ ] Sub-Module 6.6 - Assignment - Deliverable
 
 ### SUB-MODULE 6.7: HUD
 
-[ ] Sub-Module 6.7 - Instructions
+0. [ ] Sub-Module 6.7 - Instructions
 
 1. [ ] Power Ups (58:25)
 2. [ ] Head Up Display (95:54)
 
-[ ] Sub-Module 6.7 - Assignment - Deliverable
+3. [ ] Sub-Module 6.7 - Assignment - Deliverable
 
 ### SUB-MODULE 6.8: SIMPLE BOSS
 
-[ ] Sub-Module 6.8 - Instructions
+0. [ ] Sub-Module 6.8 - Instructions
 
 1. [ ] Bosses (63:09)
 2. [ ] Score System (56:06)
 3. [ ] Sounds & Music (88:35)
 
-[ ] Sub-Module 6.8 - Assignment - Deliverable
+4. [ ] Sub-Module 6.8 - Assignment - Deliverable
 
 ### SUB-MODULE 6.9: SAVE SYSTEM
 
-[ ] Sub-Module 6.9 - Instructions
+0. [ ] Sub-Module 6.9 - Instructions
 
-1. Colours and Layers (44:43)
-2. Save System (86:49)
+1. [ ] Colours and Layers (44:43)
+2. [ ] Save System (86:49)
 
-[ ] Sub-Module 6.9 - Assignment - Deliverable
+3. [ ] Sub-Module 6.9 - Assignment - Deliverable
 
 ### SUB-MODULE 6.10: FINISHED GAME
 
-[ ] Sub-Module 6.10 - Instructions
+0. [ ] Sub-Module 6.10 - Instructions
 
 1. [ ] Putting it all together (149:34)
 
-[ ] Sub-Module 6.10 - Assignment Checkpoint - Deliverable
+2. [ ] Sub-Module 6.10 - Assignment Checkpoint - Deliverable
 
 ## Extra material - recordings from webinars - optional
 
-[ ] Evening chat with James - Game Developer Conference (52:14)
-
-[ ] Storytelling webinar with Pallav Sethiya and Niccolò Pagnacco (53:11)
-
-[ ] Evening chat with James - Introduction to Game Production (43:36)
+1. [ ] Evening chat with James - Game Developer Conference (52:14)
+2. [ ] Storytelling webinar with Pallav Sethiya and Niccolò Pagnacco (53:11)
+3. [ ] Evening chat with James - Introduction to Game Production (43:36)
