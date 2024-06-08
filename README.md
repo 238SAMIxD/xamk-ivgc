@@ -241,3 +241,73 @@ Introduction to Video Games Crestion course by South-Eastern Finland University 
 1. [ ] Evening chat with James - Game Developer Conference (52:14)
 2. [ ] Storytelling webinar with Pallav Sethiya and Niccolò Pagnacco (53:11)
 3. [ ] Evening chat with James - Introduction to Game Production (43:36)
+
+## MODULE 10: HISTORY OF GAMES
+
+0. [x] Module 10 - Instructions
+
+1. [x] Games 1-5 (15:25)
+2. [x] Games 6-10 (10:53)
+
+3. [x] Module 10 - Assignment - Quiz
+
+## MODULE 11: GAME EXPERIENCE ANALYSIS, MY FAVOURITE GAME
+
+0. [x] Module 11 - Instructions
+
+1. [x] Module 11 - Assignment - Essay
+
+## MODULE 12: INNOVATION IN GAMES
+
+0. [x] Module 12 - Instructions
+
+1. [x] Module 12 - Assignment - Quiz
+
+## MODULE 13: THE GAMES INDUSTRY AND DATA ANALYTICS
+
+0. [x] Module 13 - Instructions
+
+1. [x] Module 13 - Assignment - Quiz
+
+## MODULE 14: ANALYSIS OF THE GAME I PLAY NOW
+
+0. [x] Module 14 - Instructions
+
+1. [x] Module 14 - Assignment - Essay
+
+## MODULE 15: IDEATION AND VALUE CREATION IN GAMES
+
+0. [x] Module 15 - Instructions
+
+1. [x] Module 15 - Assignment - Quiz
+
+## MODULE 16: ARTIFICIAL INTELLIGENCE FOR GAMES
+
+0. [x] Module 16 - AI for Games - Instructions
+
+1. [x] Game of Life (14:05)
+2. [x] Robotron 2084 (13:42)
+3. [x] Gauntlet (17:15)
+
+4. [x] Module 16 - Assignment - Quiz
+
+## MODULE 17: VIDEO GAMES PRODUCTION
+
+0. [x] Module 17 - Game Production - Instructions
+
+1. [x] Production phases (21:40)
+2. [x] The role of Producer (19:56)
+
+3. [x] Module 17 - Assignment - Quiz
+
+## MODULE 18: GAME CONCEPT DESIGN
+
+0. [x] Module 18 - Instructions
+
+1. [x] Introduction (8:34)
+2. [x] Imagination (9:30)
+3. [x] Validation (9:52)
+4. [x] One Sheet (8:35)
+5. [x] Character Design (10:41)
+
+6. [x] Module 18 - Assignment - Submit your deliverables
