@@ -1,4 +1,4 @@
-# Module 13 : The Games Industry and Data Analytics (2023)
+# Module 13: The Games Industry and Data Analytics (2023)
 
 There will be 40 questions in this quiz about games business and data analytics.
 
