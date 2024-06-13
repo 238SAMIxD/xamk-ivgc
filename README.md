@@ -130,7 +130,7 @@ Introduction to Video Games Crestion course by South-Eastern Finland University 
 6. [x] Adding the Snake Head (16:41)
 7. [x] Adding the rest of the Snake (19:36)
 8. [x] Getting the body parts to follow the head (16:58)
-9. [ ] Creating Walls, Eggs (19:25)
+9. [x] Creating Walls, Eggs (19:25)
 10. [ ] Collisions (11:44)
 11. [ ] Game Progression (27:34)
 12. [ ] Score and GUI (15:37)
