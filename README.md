@@ -134,10 +134,10 @@ Introduction to Video Games Crestion course by South-Eastern Finland University 
 10. [x] Collisions (11:44)
 11. [x] Game Progression (27:34)
 12. [x] Score and GUI (15:37)
-13. [ ] Sounds and Phone Deployment (14:12)
-14. [ ] Assignment (3:12)
+13. [x] Sounds and Phone Deployment (14:12)
+14. [x] Assignment (3:12)
 
-15. [ ] Module 5 - Assignment - Submit your deliverables
+15. [x] Module 5 - Assignment - Submit your deliverables
 
 ## MODULE 6: SPACE SHOOTER
 
