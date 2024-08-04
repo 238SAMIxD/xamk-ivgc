@@ -141,11 +141,11 @@ Introduction to Video Games Crestion course by South-Eastern Finland University 
 
 ## MODULE 6: SPACE SHOOTER
 
-1. [ ] Module 6 - Instructions (1:45)
+1. [x] Module 6 - Instructions (1:45)
 
 ### SUB-MODULE 6.1: SETTING UP THE PROJECT
 
-0. [ ] Sub-Module 6.1 - Instructions
+0. [x] Sub-Module 6.1 - Instructions
 
 1. [ ] Source Control (27:31)
 2. [ ] Technical Planning (6:16)
