@@ -242,6 +242,108 @@ Introduction to Video Games Crestion course by South-Eastern Finland University 
 2. [ ] Storytelling webinar with Pallav Sethiya and Niccolò Pagnacco (53:11)
 3. [ ] Evening chat with James - Introduction to Game Production (43:36)
 
+## Module 9: Sound Design for Videogames
+
+### Introduction
+
+1. [ ] Sound Design for Videogames - Overview (1:38)
+
+### SUB-MODULE 9.1: Theory
+
+0. [ ] Part 1 - Overview (1:38)
+
+1. [ ] Lecture 1 - Amplitude (5:16)
+2. [ ] Lecture 2 - Frequency (6:17)
+3. [ ] Lecture 3 - Timbre (5:17)
+4. [ ] Lecture 4 - Human Ear (8:41)
+5. [ ] Lecture 5 - Recognition (7:13)
+6. [ ] Lecture 6 - Preservation (5:06)
+7. [ ] Lecture 7 - Temperament (4:34)
+8. [ ] Lecture 8 - Notes (9:03)
+9. [ ] Lecure 9 - Chords (13:42)
+10. [ ] Lecture 10 - Rhythm (10:07)
+
+### Paul Weir's Insight: Inspiration and Recommendations
+
+1. [ ] Paul Weir's Insight: Inspiration and Recommendations (5:45)
+
+#### Part 1 - Exercises
+
+0. [ ] Part 1 Exercises - Overview (1:50)
+
+1. [ ] Exercise 1: Identifying Musical Intervals
+2. [ ] Exercise 2: Identifying Musical Intervals with Accidentals
+3. [ ] Exercise 3: Calculating Major Scales
+4. [ ] Exercise 4: Calculating Minor Scales
+5. [ ] Exercise 5: Building Major and Minor Chords
+
+#### Part 1 - Assignments
+
+0. [ ] Part 1 Assignments - Overview (1:04)
+
+1. [ ] Quiz 1: Acoustics
+2. [ ] Quiz 2: Human Hearing
+3. [ ] Quiz 3: Music Theory
+
+#### Paul Weir's Insight: Process and Collaboration
+
+1. [ ] Paul Weir's Insight: Process and Collaboration (4:54)
+
+### SUB-MODULE 9.2: Audio Production
+
+0. [ ] Part 2 - Overview (1:31)
+
+1. [ ] Lecture 1 - Types of game sounds (12:12)
+2. [ ] Lecture 2 - The right material (18:26)
+3. [ ] Lecture 3 - Editing audio: Audacity (13:32)
+4. [ ] Lecture 4 - Effects (26:54)
+5. [ ] Lecture 5 - Digital Audio Workstations: Reaper (7:42)
+6. [ ] Lecture 6 - MIDI and VSTs (21:06)
+7. [ ] Lecture 7 - Music Production (49:51)
+8. [ ] Lecture 8 - Sound Effect Production (20:21)
+9. [ ] Lecture 9 - Sound design (50:35)
+
+#### Paul Weir's Insight: Emotion and Immersive Sound Design
+
+1. [ ] Paul Weir's Insight: Emotion and Immersive Sound Design (10:51)
+
+#### Part 2 - Exercises
+
+0. [ ] Part 2 Exercises - Overview (1:35)
+
+1. [ ] Exercise 1 - Soundscape Checklist
+2. [ ] Exercise 2 - Music production
+3. [ ] Exercise 3 - Sound Effect Production
+
+#### Part 2 - Assignment
+
+1. [ ] Assignment: Video Sound Design (0:52)
+
+#### Paul Weir - Lecture on Sound Design for Video Games
+
+1. [ ] Paul Weir - Lecture on Sound Design for Video Games (55:33)
+
+### SUB-MODULE 9.3: Game Audio Implementation
+
+0. [ ] Part 3 - Overview (1:23)
+
+1. [ ] Lecture 1 - Project Setup (19:26)
+2. [ ] Lecture 2 - Fmod Project Setup (23:06)
+3. [ ] Lecture 3 - Unity package (19:22)
+4. [ ] Lecture 4 - Parameters (25:44)
+5. [ ] Lecture 5 - Event Emitters and Effects (36:32)
+6. [ ] Lecture 6 - Dynamic Ambience (32:31)
+7. [ ] Lecture 7 - Animations and Attached Instances (32:33)
+8. [ ] Lecture 8 - Transitions and Emitter Clean-Up (26:54)
+9. [ ] Lecture 9 - Adaptive Music (56:32)
+10. [ ] Lecture 10 - Real-Time Cutscenes (22:38)
+11. [ ] Lecture 11 - Volume Sliders and Sidechain (27:34)
+12. [ ] Lecture 12 - Profiler and Project Build (17:05)
+
+#### Part 3 - Assignment
+
+1. [ ] Assignment: Unity Build with FMOD Audio (0:52)
+
 ## MODULE 10: HISTORY OF GAMES
 
 0. [x] Module 10 - Instructions
