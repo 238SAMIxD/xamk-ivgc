@@ -246,40 +246,40 @@ Introduction to Video Games Crestion course by South-Eastern Finland University 
 
 ### Introduction
 
-1. [ ] Sound Design for Videogames - Overview (1:38)
+1. [x] Sound Design for Videogames - Overview (1:38)
 
 ### SUB-MODULE 9.1: Theory
 
-0. [ ] Part 1 - Overview (1:38)
+0. [x] Part 1 - Overview (1:38)
 
-1. [ ] Lecture 1 - Amplitude (5:16)
-2. [ ] Lecture 2 - Frequency (6:17)
-3. [ ] Lecture 3 - Timbre (5:17)
-4. [ ] Lecture 4 - Human Ear (8:41)
-5. [ ] Lecture 5 - Recognition (7:13)
-6. [ ] Lecture 6 - Preservation (5:06)
-7. [ ] Lecture 7 - Temperament (4:34)
-8. [ ] Lecture 8 - Notes (9:03)
-9. [ ] Lecure 9 - Chords (13:42)
-10. [ ] Lecture 10 - Rhythm (10:07)
+1. [x] Lecture 1 - Amplitude (5:16)
+2. [x] Lecture 2 - Frequency (6:17)
+3. [x] Lecture 3 - Timbre (5:17)
+4. [x] Lecture 4 - Human Ear (8:41)
+5. [x] Lecture 5 - Recognition (7:13)
+6. [x] Lecture 6 - Preservation (5:06)
+7. [x] Lecture 7 - Temperament (4:34)
+8. [x] Lecture 8 - Notes (9:03)
+9. [x] Lecure 9 - Chords (13:42)
+10. [x] Lecture 10 - Rhythm (10:07)
 
 ### Paul Weir's Insight: Inspiration and Recommendations
 
-1. [ ] Paul Weir's Insight: Inspiration and Recommendations (5:45)
+1. [x] Paul Weir's Insight: Inspiration and Recommendations (5:45)
 
 #### Part 1 - Exercises
 
-0. [ ] Part 1 Exercises - Overview (1:50)
+0. [x] Part 1 Exercises - Overview (1:50)
 
-1. [ ] Exercise 1: Identifying Musical Intervals
-2. [ ] Exercise 2: Identifying Musical Intervals with Accidentals
-3. [ ] Exercise 3: Calculating Major Scales
-4. [ ] Exercise 4: Calculating Minor Scales
-5. [ ] Exercise 5: Building Major and Minor Chords
+1. [x] Exercise 1: Identifying Musical Intervals
+2. [x] Exercise 2: Identifying Musical Intervals with Accidentals
+3. [x] Exercise 3: Calculating Major Scales
+4. [x] Exercise 4: Calculating Minor Scales
+5. [x] Exercise 5: Building Major and Minor Chords
 
 #### Part 1 - Assignments
 
-0. [ ] Part 1 Assignments - Overview (1:04)
+0. [x] Part 1 Assignments - Overview (1:04)
 
 1. [ ] Quiz 1: Acoustics
 2. [ ] Quiz 2: Human Hearing
@@ -287,7 +287,7 @@ Introduction to Video Games Crestion course by South-Eastern Finland University 
 
 #### Paul Weir's Insight: Process and Collaboration
 
-1. [ ] Paul Weir's Insight: Process and Collaboration (4:54)
+1. [x] Paul Weir's Insight: Process and Collaboration (4:54)
 
 ### SUB-MODULE 9.2: Audio Production
 
