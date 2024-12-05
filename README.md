@@ -147,9 +147,9 @@ Introduction to Video Games Crestion course by South-Eastern Finland University 
 
 0. [x] Sub-Module 6.1 - Instructions
 
-1. [ ] Source Control (27:31)
-2. [ ] Technical Planning (6:16)
-3. [ ] Creating The Unity Project (13:22)
+1. [x] Source Control (27:31)
+2. [x] Technical Planning (6:16)
+3. [x] Creating The Unity Project (13:22)
 
 4. [ ] Sub-Module 6.1 - Assignment - Quiz
 
